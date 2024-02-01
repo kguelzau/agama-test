@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test",
+        "type": "community",
+        "author": "kguelzau",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kguelzau/agama-test",
+        "githubUri": "https://github.com/kguelzau/agama-test",
+        "license": "apache-2.0",
+        "lastUpdated": "1706801627333",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
